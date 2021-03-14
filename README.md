@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Cian Dolphin 🐬
 
-<!--
-**ciandm/ciandm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a digital designer and frontend developer from Dublin, Ireland.
 
-Here are some ideas to get you started:
+📌  See some of my work at https://www.ciandolphin.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👨🏻‍💻 Tech I use: 
+- Figma
+- Adobe Creative Suite
+- HTML
+- CSS
+- SCSS
+- JavaScript
+- React
+- Styled components
+- Next.js
