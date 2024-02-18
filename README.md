@@ -1,8 +1,6 @@
 ### Hi there, I'm Cian Dolphin 🐬
 
-I'm a digital designer and frontend developer from Dublin, Ireland.
-
-📌  See some of my work at https://www.ciandolphin.com
+I'm a frontend developer from Dublin, Ireland.
 
 #### 👨🏻‍💻 Tech I use: 
 - Figma
