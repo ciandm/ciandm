@@ -1,7 +1,5 @@
 ### Hi there, I'm Cian Dolphin 🐬
 
-I'm a frontend developer from Dublin, Ireland.
-
 #### 👨🏻‍💻 Tech I use: 
 - Figma
 - Adobe Creative Suite
